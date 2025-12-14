@@ -9,7 +9,7 @@
 
 ## 📄 Resumo
 
-Este projeto apresenta o desenvolvimento de um sistema computacional em **Python** para modelagem e previsão de séries temporais estocásticas. Diferente das abordagens convencionais que utilizam bibliotecas prontas (como statsmodels), esta implementação prioriza a exigência da Disciplina de Séries Temporais, reproduzindo manualmente as etapas de identificação, estimação e diagnóstico conforme os fundamentos teóricos de **Box & Jenkins (1976)**.  
+Este projeto apresenta o desenvolvimento de um sistema computacional em **Python** para modelagem e previsão de séries temporais estocásticas. Diferente das abordagens convencionais que utilizam bibliotecas prontas (como statsmodels), esta implementação prioriza a exigência da Disciplina de Séries Temporais, reproduzindo manualmente as etapas de identificação, estimação e diagnóstico conforme os fundamentos teóricos de **Box & Jenkins** (1976). 
 
 O sistema automatiza a seleção do modelo **ARIMA $(p,d,q)$** ótimo por meio de testes estatísticos e critérios de informação.
 
@@ -24,9 +24,11 @@ A modelagem de séries temporais é essencial para a tomada de decisão baseada 
 
 ---
 
-## 2. Metodologia: O Ciclo Box & Jenkins
+## 2. Metodologia:
 
 O código foi estruturado seguindo o ciclo iterativo clássico de Box & Jenkins, dividido em blocos lógicos de processamento.
+
+**Identificação -> Estimação -> Diagnóstico**
 
 ### 2.1. Pré-processamento e Estacionariedade
 - **Estabilização da Variância:** Aplicação da transformação logarítmica ($\ln(Z_t)$) para linearizar tendências exponenciais e reduzir a volatilidade.  
