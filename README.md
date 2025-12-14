@@ -6,7 +6,13 @@
 ![License](https://img.shields.io/badge/Methodology-Box%20%26%20Jenkins-orange)
 
 ---
+**Disciplina:** SISTEMAS INTELIGENTES PARA ANÁLISE E PREVISÃO DE SISTEMAS COMPLEXOS - PPGIA - 2025.2
 
+**Docente:** Drº Tiago Alessandro Espínola Ferreira
+
+**Discente:** Jacqueline Navarro da Silva
+
+---
 ## 📄 Resumo
 
 Este projeto apresenta o desenvolvimento de um sistema computacional em **Python** para modelagem e previsão de séries temporais estocásticas. Diferente das abordagens convencionais que utilizam bibliotecas prontas (como statsmodels), esta implementação prioriza a exigência da Disciplina de Séries Temporais, reproduzindo manualmente as etapas de identificação, estimação e diagnóstico conforme os fundamentos teóricos de **Box & Jenkins** (1976). 
