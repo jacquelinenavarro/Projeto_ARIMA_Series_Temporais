@@ -91,6 +91,9 @@ Este projeto foi construído com o auxílio de um conjunto de ferramentas que fa
 | **Controle de Versão** | **GitHub** | Versionamento do código e publicação da documentação do projeto. |
 | **Assistência de Código** | **Ferramentas de LLM** | Apoio na depuração de erros, otimização da complexidade e geração de *docstrings*. |
 | **Recursos Visuais** | **YouTube** | Hospedagem da vídeo-demonstração do protótipo e apresentação do projeto. |
+---
+
+**Referências principais:** Material Google Classroom  da disciplina | Livro: Time Series Analysis: Forecasting end Control Autores: George E. P. Box; Gwilym M. Jenkins; Gregory C. Reinsel. 5a Ed. - Editora Wiley.
 
 ---
 
