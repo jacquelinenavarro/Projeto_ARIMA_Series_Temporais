@@ -80,6 +80,17 @@ O desenvolvimento realizado demonstra que é possível construir previsões de s
 
 Dessa forma, o modelo ARIMA selecionado não se limita a um ajuste numérico, mas representa uma construção estatisticamente fundamentada e validada, em conformidade com os critérios acadêmicos da disciplina. O ciclo Box & Jenkins foi seguido, assegurando que cada decisão sobre ordens, parâmetros e diagnósticos esteja alinhada às práticas teóricas exigidas.
 
+---
+
+## 📌 Apresentação do Projeto
+Acesse a apresentação completa no link aqui:
+[vídeo]( https://youtu.be/Jd3YJ8NDQ84)
+
+
+## 🎥 Protótipo Interativo
+Este [vídeo]( https://youtu.be/duR7TMobMqo) apresenta uma versão inicial do protótipo desenvolvido com o notebook `app_arima_streamlit.py`.
+
+---
 
 ## 🛠️ Ferramentas e Apoio ao Desenvolvimento
 
