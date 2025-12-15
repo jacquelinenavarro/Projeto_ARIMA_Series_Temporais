@@ -83,7 +83,7 @@ Dessa forma, o modelo ARIMA selecionado não se limita a um ajuste numérico, ma
 ---
 
 ## 📌 Apresentação do Projeto
-Acesse a apresentação completa no link aqui:
+Acesse a apresentação completa aqui:
 [vídeo]( https://youtu.be/Jd3YJ8NDQ84)
 
 
